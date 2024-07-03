@@ -1,0 +1,13 @@
+4
+3
+PREORDEN = [a, b, d, e, j, h, c, f, i, g]
+INORDEN = [d, b, h, j, e, a, f, i, c, g]
+3
+POSTORDEN = [d, b, f, g, e, c, a]
+INORDEN = [d, b, a, f, e, g, c]
+3
+INORDEN = [d, c, b, a]
+POSTORDEN = [d, c, b, a]
+4
+PREORDEN = [a, b, f, p, q, r, e, g, s, t, c, d, m, o, u, v, w, n, h, i, k, y, z, j, x]
+INORDEN = [q, p, r, f, b, s, g, t, e, a, v, u, w, o, m, n, d, y, k, z, i, x, j, h, c]

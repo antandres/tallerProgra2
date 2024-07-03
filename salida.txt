@@ -1,0 +1,4 @@
+[ ( a c f i ) ]
+[ ( a c e f ) ( a c e g ) ]
+[ ( a b c d ) ]
+[ ( a b f p q ) ( a b f p r ) ( a b e g s ) ( a b e g t ) ( a c d m n ) ]
